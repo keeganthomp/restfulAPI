@@ -1,0 +1,1 @@
+A RESTful application made with Express, Mongo, Bluebird, and Mongoose.
